@@ -20,6 +20,7 @@ class LoginPage extends Component {
       });
     } else {
       this.props.dispatch({ type: 'LOGIN_INPUT_ERROR' });
+      console.log();
     }
   } // end login
 
