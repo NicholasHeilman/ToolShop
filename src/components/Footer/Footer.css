@@ -2,7 +2,6 @@ footer {
     margin-top: 50vh;
 }
 
-.rsQoute{
-    font-size: .5em;
-    font-style: italic !important;
+.rs{
+    text-align: right;
 }
